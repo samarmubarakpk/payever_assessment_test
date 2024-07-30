@@ -94,9 +94,17 @@ To ensure code quality, use flake8 for linting.
 
 ![Model Flake8 verification](screenshots\passing_Flake8.png) -->
 # Screenshots
-
+Model Summary
 ![Model summary](screenshots/Model_summary.png)
+
+Model Training
 ![Model training](screenshots/Training.png)
+
+Model Acurracy
 ![Model Accuracy](screenshots/accuracy.png)
+
+Model Graphs
 ![Model Graphs](screenshots/Model_loss_and_accuracy.png)
+
+Model Flake8 verificationS
 ![Model Flake8 verification](screenshots/passing_Flake8.png)
