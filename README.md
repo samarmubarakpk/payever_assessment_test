@@ -82,15 +82,21 @@ After training, the model's performance is evaluated using metrics such as accur
 Linting
 To ensure code quality, use flake8 for linting.
 
-Screenshots
+<!-- Screenshots
 
-![Model Accuracy](screenshots\Model_summary.png)
-![Model Accuracy](screenshots\Training.png)
+![Model summary](screenshots\Model_summary.png)
+
+![Model trauning ](screenshots\Training.png)
 
 ![Model Accuracy](screenshots\accuracy.png)
 
-![Model Accuracy](screenshots\Model_loss_and_accuracy.png)
+![Model Graphs](screenshots\Model_loss_and_accuracy.png)
 
-![Model Accuracy](screenshots\passing_Flake8.png)
+![Model Flake8 verification](screenshots\passing_Flake8.png) -->
+# Screenshots
 
-
+![Model summary](screenshots/Model_summary.png)
+![Model training](screenshots/Training.png)
+![Model Accuracy](screenshots/accuracy.png)
+![Model Graphs](screenshots/Model_loss_and_accuracy.png)
+![Model Flake8 verification](screenshots/passing_Flake8.png)
